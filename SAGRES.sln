@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAGRES.API", "src\SAGRES.API\SAGRES.API.csproj", "{5932FB1D-A533-4CF9-BBE9-4174F083BAD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAGRES.Domain", "src\SAGRES.Domain\SAGRES.Domain.csproj", "{C604FD11-93F3-43A7-A990-D9F593CFF344}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5932FB1D-A533-4CF9-BBE9-4174F083BAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5932FB1D-A533-4CF9-BBE9-4174F083BAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5932FB1D-A533-4CF9-BBE9-4174F083BAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5932FB1D-A533-4CF9-BBE9-4174F083BAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C604FD11-93F3-43A7-A990-D9F593CFF344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C604FD11-93F3-43A7-A990-D9F593CFF344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C604FD11-93F3-43A7-A990-D9F593CFF344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C604FD11-93F3-43A7-A990-D9F593CFF344}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A65A2EBF-B666-480B-931A-3B508F80CD72}
+	EndGlobalSection
+EndGlobal
